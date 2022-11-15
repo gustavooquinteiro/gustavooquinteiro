@@ -1,4 +1,29 @@
 ### Hello World! 👋
+
+I'm a curious and eager leaner to understand throughly the stacks I'm use to build solid and reliable code.  
+Being mostly a Java developer in my work and personal projects, I also vary in languages depending of the need, easiness, and deadline.   
+
+This profile show a little bit of what I capable of code, some projects that I'm proud of, and personal studies.
+
+### Bio
+
+:baby: Curious and knowledge-driven boy since 1998   
+:computer: IT Technician licensed by Federal Institute of Bahia since 2017   
+:desktop_computer: Computer Scientist by Federal University of Bahia since 2023
+
+```
+"We can only see a short distance ahead, but we can see plenty there that needs to be done."
+- Alan Turing
+```
+
+### Professional Experiences
+
+1. IT Technician Trainee at Compunet (2016-2016)
+2. Java Developer Intern at Gestão Sistemas (2016-2017)
+3. Python Developer Freelancer (2019-2019)
+4. Java Developer Jr at Superintendência de Tecnologia da Informação (2021-now)
+
+
 <!-- Status -->
 <div align="left">
   <a href="https://github.com/gustavooquinteiro">
@@ -14,7 +39,7 @@
 </div>  -->
   
 <!-- Social --> 
-#### REDES SOCIAIS
+#### Social Media
 ###   
 <div align="left">
   <a href="https://instagram.com/gustavooquinteiro" target="_blank"><img align="center" height="40" alt="INSTAGRAM" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"></a>
